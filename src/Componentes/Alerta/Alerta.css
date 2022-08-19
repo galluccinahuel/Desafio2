@@ -1,0 +1,10 @@
+
+.alerta-contenedor{
+    background-color: coral;
+    color: wheat;
+    border-radius: 10px;
+}
+
+.alerta-parrafo{
+    color: red;
+}
