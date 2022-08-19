@@ -3,8 +3,9 @@
     background-color: coral;
     color: wheat;
     border-radius: 10px;
+    width: 50%;
 }
 
 .alerta-parrafo{
-    color: red;
+    color: crimson;
 }

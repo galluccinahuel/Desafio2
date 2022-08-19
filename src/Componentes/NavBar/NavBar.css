@@ -1,0 +1,32 @@
+
+.navBar-container{
+
+    width: 100%;
+    height: 20%;
+    background-color: #61dafb;
+    color: #282c34
+
+}
+
+.navBar-itemContainer{
+
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    
+}
+
+.navBar-item{
+    
+    margin: 5px;
+    width: 20%;
+    border: solid 2px #282c34;
+    list-style: none;
+    border-radius: 15px;
+
+}
+
+.navBar-item a{
+
+    text-decoration: none;
+}
